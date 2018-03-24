@@ -1,2 +1,5 @@
 # OKSICoiN
-OKSICoiN Token CryptoCurrency
+
+OKSICoiN Waves Token CryptoCurrency
+
+site - https://oksicoin.com
